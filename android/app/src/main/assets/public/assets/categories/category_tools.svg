@@ -1,0 +1,80 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54.5" rx="21" ry="4" fill="#202536" fill-opacity="0.12"/>
+  <ellipse cx="24" cy="54" rx="5.5" ry="2" fill="#202536" fill-opacity="0.14"/>
+  <ellipse cx="40" cy="54" rx="5.5" ry="2" fill="#202536" fill-opacity="0.14"/>
+
+  <!-- Dotted Flight Contrail Arc -->
+  <path d="M12 28C13.5 17 22.5 10 38 8.5" stroke="#6D8298" stroke-width="1.8" stroke-dasharray="2.5 2.5" stroke-linecap="round" stroke-opacity="0.75"/>
+
+  <!-- Soaring Travel Plane (Top-Right Flight Angle) -->
+  <g transform="translate(36, 4) rotate(16)">
+    <!-- Plane Shadow -->
+    <path d="M15 6L6 9.5V11L15 8.5L18.5 9.5V8.5L16.5 7.5L20 7L21.5 6L20 5L16.5 4.5L18.5 3.5V2.5L15 3.5L6 1.5V3L15 6Z" fill="#202536" fill-opacity="0.15"/>
+    <!-- Fuselage -->
+    <path d="M21 6.5C21 6.5 19 5.2 15 5.2L6 5.6L2 3H0.8L2 6.5L0.8 10H2L6 7.4L15 7.8C19 7.8 21 6.5 21 6.5Z" fill="#E8E8E5"/>
+    <path d="M21 6.5C21 6.5 19 5.4 15 5.4L6 5.8L2 3.3H1.2L2.3 6.5L1.2 9.7H2L6 7.2L15 7.6C19 7.6 21 6.5 21 6.5Z" fill="#FFFFFF"/>
+    <!-- Wings -->
+    <path d="M11 6.5L6.5 1L4 1.4L7.5 6.5H11Z" fill="#6D8298"/>
+    <path d="M11 6.5L6.5 12L4 11.6L7.5 6.5H11Z" fill="#4E657B"/>
+    <!-- Cockpit Window -->
+    <path d="M17 6.2L18.5 6.5L17 6.8H15.8L16.4 6.2H17Z" fill="#202536"/>
+  </g>
+
+  <!-- RETRACTABLE TELESCOPIC HANDLE -->
+  <rect x="27" y="11" width="2" height="13" rx="1" fill="#D2D2CE"/>
+  <rect x="27" y="11" width="1" height="13" rx="0.5" fill="#FFFFFF"/>
+  <rect x="35" y="11" width="2" height="13" rx="1" fill="#D2D2CE"/>
+  <rect x="35" y="11" width="1" height="13" rx="0.5" fill="#FFFFFF"/>
+  <rect x="25" y="8" width="14" height="4.5" rx="2.2" fill="#202536"/>
+  <rect x="27" y="9" width="10" height="2" rx="1" fill="#31384E"/>
+
+  <!-- Top Carry Handle on Suitcase -->
+  <rect x="28.5" y="19" width="7" height="2.5" rx="1.2" fill="#202536"/>
+  <rect x="29.5" y="19.4" width="5" height="1" rx="0.5" fill="#31384E"/>
+
+  <!-- SPINNER WHEELS -->
+  <ellipse cx="23.5" cy="51.5" rx="3.2" ry="3.8" fill="#202536"/>
+  <circle cx="23.5" cy="51.5" r="1.8" fill="#D2D2CE"/>
+  <circle cx="23.5" cy="51.5" r="0.9" fill="#202536"/>
+  <ellipse cx="40.5" cy="51.5" rx="3.2" ry="3.8" fill="#202536"/>
+  <circle cx="40.5" cy="51.5" r="1.8" fill="#D2D2CE"/>
+  <circle cx="40.5" cy="51.5" r="0.9" fill="#202536"/>
+
+  <!-- SUITCASE BODY -->
+  <rect x="17.5" y="22" width="29" height="28" rx="5.5" fill="#202536"/>
+  <rect x="17.5" y="21" width="29" height="28" rx="5.5" fill="#C98A48"/>
+  <rect x="18.5" y="22" width="27" height="26" rx="4.5" fill="#DF9E58"/>
+  <path d="M18.5 25C18.5 23.3 19.8 22 21.5 22H42.5C44.2 22 45.5 23.3 45.5 25V26H18.5V25Z" fill="#F5ECE0" fill-opacity="0.4"/>
+
+  <!-- Molded Ribbed Horizontal Travel Grooves -->
+  <rect x="22" y="27" width="20" height="2.2" rx="1.1" fill="#C98A48" fill-opacity="0.85"/>
+  <rect x="22" y="27" width="20" height="0.8" rx="0.4" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="22" y="32" width="20" height="2.2" rx="1.1" fill="#C98A48" fill-opacity="0.85"/>
+  <rect x="22" y="32" width="20" height="0.8" rx="0.4" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="22" y="37" width="20" height="2.2" rx="1.1" fill="#C98A48" fill-opacity="0.85"/>
+  <rect x="22" y="37" width="20" height="0.8" rx="0.4" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="22" y="42" width="20" height="2.2" rx="1.1" fill="#C98A48" fill-opacity="0.85"/>
+  <rect x="22" y="42" width="20" height="0.8" rx="0.4" fill="#FFFFFF" fill-opacity="0.4"/>
+
+  <!-- Navy Reinforced Corner Protectors -->
+  <path d="M17.5 26.5C17.5 23.5 19.9 21 22.9 21H24V25C24 25.8 23.3 26.5 22.5 26.5H17.5V26.5Z" fill="#202536"/>
+  <path d="M46.5 26.5C46.5 23.5 44.1 21 41.1 21H40V25C40 25.8 40.7 26.5 41.5 26.5H46.5V26.5Z" fill="#202536"/>
+  <path d="M17.5 43.5C17.5 46.5 19.9 49 22.9 49H24V45C24 44.2 23.3 43.5 22.5 43.5H17.5V43.5Z" fill="#202536"/>
+  <path d="M46.5 43.5C46.5 46.5 44.1 49 41.1 49H40V45C40 44.2 40.7 43.5 41.5 43.5H46.5V43.5Z" fill="#202536"/>
+
+  <!-- Hanging Luggage Baggage Tag -->
+  <g transform="rotate(-15 41 27)">
+    <path d="M41 24.5L42.5 27" stroke="#202536" stroke-width="1"/>
+    <rect x="40.5" y="27" width="6.5" height="8.5" rx="1.5" fill="#E8D7B5" stroke="#202536" stroke-width="1"/>
+    <circle cx="43.7" cy="28.8" r="0.8" fill="#202536"/>
+    <rect x="42" y="31" width="3.5" height="1" rx="0.5" fill="#6D8298"/>
+    <rect x="42" y="33" width="2.5" height="1" rx="0.5" fill="#C98A48"/>
+  </g>
+
+  <!-- Destination Compass Stamp Accent -->
+  <circle cx="23.5" cy="40" r="3.4" fill="#E8E8E5" stroke="#202536" stroke-width="0.9"/>
+  <path d="M23.5 37.8L24.7 40L23.5 42.2L22.3 40L23.5 37.8Z" fill="#C98A48"/>
+  <path d="M21.3 40L23.5 41.2L25.7 40L23.5 38.8L21.3 40Z" fill="#6D8298"/>
+  <circle cx="23.5" cy="40" r="0.6" fill="#202536"/>
+</svg>

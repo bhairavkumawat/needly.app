@@ -4,7 +4,7 @@ android {
     namespace = "com.needly.app"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.needly.app"
+        applicationId "com.aistudio.needly.mktpl"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

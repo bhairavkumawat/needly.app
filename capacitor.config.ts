@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.needly.app',
+  appId: 'com.aistudio.needly.mktpl',
   appName: 'Needly',
   webDir: 'dist',
   server: {

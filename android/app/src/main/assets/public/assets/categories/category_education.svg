@@ -1,0 +1,46 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="22" ry="4.5" fill="#202536" fill-opacity="0.12"/>
+
+  <!-- OPEN BOOK BASE (3/4 Isometric) -->
+  <!-- Book Hardcover (Muted Blue) -->
+  <path d="M14 43L32 46L50 43V47L32 50L14 47V43Z" fill="#202536"/>
+  <path d="M13 42L32 45L51 42V45L32 48L13 45V42Z" fill="#6D8298"/>
+  
+  <!-- Left Page Leaf (Warm Beige) -->
+  <path d="M15 41C20 40 27 41 32 44V40C27 37 20 36 15 37V41Z" fill="#D8C39F"/>
+  <path d="M15 37C20 36 27 37 32 40C27 37.5 20 36.5 15 37Z" fill="#F5ECE0"/>
+  <path d="M16 38C21 37 27 38 31 40.5V43C27 40.5 21 39.5 16 40.5V38Z" fill="#E8D7B5"/>
+  
+  <!-- Right Page Leaf (Light Gray / Off-white) -->
+  <path d="M49 41C44 40 37 41 32 44V40C37 37 44 36 49 37V41Z" fill="#D2D2CE"/>
+  <path d="M49 37C44 36 37 37 32 40C37 37.5 44 36.5 49 37Z" fill="#FFFFFF"/>
+  <path d="M48 38C43 37 37 38 33 40.5V43C37 40.5 43 39.5 48 40.5V38Z" fill="#E8E8E5"/>
+
+  <!-- Subtle Page Text Lines -->
+  <line x1="19" y1="39" x2="27" y2="40.5" stroke="#202536" stroke-width="0.8" stroke-linecap="round" stroke-opacity="0.3"/>
+  <line x1="37" y1="40.5" x2="45" y2="39" stroke="#202536" stroke-width="0.8" stroke-linecap="round" stroke-opacity="0.3"/>
+
+  <!-- GRADUATION CAP (Mortarboard) -->
+  <!-- Skullcap (Base dome resting on book) -->
+  <path d="M24 26C24 23 27 21 32 21C37 21 40 23 40 26V30C40 32 37 34 32 34C27 34 24 32 24 30V26Z" fill="#161A26"/>
+  <path d="M25 28C27 30 30 31 32 31C34 31 37 30 39 28V30C39 31.5 36 33 32 33C28 33 25 31.5 25 30V28Z" fill="#202536"/>
+
+  <!-- Mortarboard Diamond Top (3/4 Isometric Perspective) -->
+  <!-- Under-bevel shadow -->
+  <polygon points="32,15 54,23 32,31 10,23" fill="#161A26"/>
+  <!-- Top surface -->
+  <polygon points="32,14 54,22 32,30 10,22" fill="#202536"/>
+  <!-- Left facet highlight -->
+  <polygon points="32,14 10,22 32,30 32,14" fill="#31384E"/>
+
+  <!-- Mortarboard Button & Tassel (Soft Orange) -->
+  <ellipse cx="32" cy="22" rx="2" ry="1.2" fill="#C98A48"/>
+  <circle cx="32" cy="21.5" r="1" fill="#DF9E58"/>
+
+  <!-- Draped Tassel Ribbon -->
+  <path d="M32 22C37 22 43 24 45 27C47 30 46 34 46.5 37" stroke="#C98A48" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Tassel Fringe Brush -->
+  <rect x="45" y="37" width="3.2" height="5.5" rx="1.5" fill="#C98A48"/>
+  <rect x="45.5" y="37" width="2.2" height="1" rx="0.5" fill="#DF9E58"/>
+</svg>

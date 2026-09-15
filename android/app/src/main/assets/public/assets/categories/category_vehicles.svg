@@ -1,0 +1,59 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="53.5" rx="23" ry="4.5" fill="#202536" fill-opacity="0.14"/>
+
+  <!-- Back/Far Wheel Shadow & Edge -->
+  <ellipse cx="43" cy="46" rx="5" ry="3" fill="#202536"/>
+
+  <!-- Car Cabin & Roof (3/4 Isometric) -->
+  <path d="M23 29L30 20H43L48 29H23Z" fill="#202536"/>
+  <!-- Roof Top (Warm Beige highlight) -->
+  <path d="M29 20H42L44 22H31L29 20Z" fill="#F5ECE0"/>
+  <path d="M31 22H44L41 29H28L31 22Z" fill="#E8D7B5"/>
+
+  <!-- Glass Windows (Front Windshield & Side Window) -->
+  <path d="M25 28L30.5 21.5H35.5L34 28H25Z" fill="#8FA5BB"/>
+  <path d="M36.5 21.5H41.5L45.5 28H35L36.5 21.5Z" fill="#6D8298"/>
+  <path d="M26 27L29.5 22.5H31L27.5 27H26Z" fill="#FFFFFF" fill-opacity="0.5"/>
+
+  <!-- Main Car Body (Muted Blue) -->
+  <path d="M12 37C12 33 15 30 19 30H47C51 30 54 33 54 37V43C54 44.5 53 45.5 51.5 45.5H14.5C13 45.5 12 44.5 12 43V37Z" fill="#6D8298"/>
+  <!-- Upper Hood & Beltline Highlight -->
+  <path d="M12 37C12 34 15 31 19 31H47C51 31 54 34 54 37V38.5H12V37Z" fill="#8FA5BB"/>
+  <!-- Lower Rocker / Underbody Dark Navy Depth -->
+  <path d="M12 42.5H54V44C54 45 53 45.5 51.5 45.5H14.5C13 45.5 12 45 12 44V42.5Z" fill="#202536"/>
+
+  <!-- Front Headlight (Soft Orange Capsule) -->
+  <rect x="13" y="34.5" width="4.5" height="3" rx="1.5" fill="#C98A48"/>
+  <rect x="13.5" y="35" width="2" height="2" rx="1" fill="#DF9E58"/>
+
+  <!-- Front Bumper Grille (Dark Navy) -->
+  <rect x="13" y="39" width="6" height="2.5" rx="1.2" fill="#202536"/>
+
+  <!-- Front Wheel (Left) -->
+  <g>
+    <!-- Tire Outer -->
+    <ellipse cx="23" cy="46" rx="6.5" ry="6.5" fill="#202536"/>
+    <!-- Rim Outer -->
+    <ellipse cx="23" cy="46" rx="4.5" ry="4.5" fill="#E8E8E5"/>
+    <ellipse cx="23" cy="46" rx="4.5" ry="4.5" fill="#D2D2CE"/>
+    <!-- Center Hub -->
+    <circle cx="23" cy="46" r="2.2" fill="#6D8298"/>
+    <circle cx="23" cy="46" r="1.2" fill="#202536"/>
+  </g>
+
+  <!-- Rear Wheel (Right) -->
+  <g>
+    <!-- Tire Outer -->
+    <ellipse cx="44" cy="46" rx="6.5" ry="6.5" fill="#202536"/>
+    <!-- Rim Outer -->
+    <ellipse cx="44" cy="46" rx="4.5" ry="4.5" fill="#E8E8E5"/>
+    <ellipse cx="44" cy="46" rx="4.5" ry="4.5" fill="#D2D2CE"/>
+    <!-- Center Hub -->
+    <circle cx="44" cy="46" r="2.2" fill="#6D8298"/>
+    <circle cx="44" cy="46" r="1.2" fill="#202536"/>
+  </g>
+
+  <!-- Rear Tail Light Hint -->
+  <rect x="52" y="35" width="2" height="3" rx="1" fill="#C98A48"/>
+</svg>

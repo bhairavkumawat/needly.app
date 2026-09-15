@@ -1,0 +1,52 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="23" ry="4.5" fill="#202536" fill-opacity="0.14"/>
+
+  <!-- BOTTOM BOX (Warm Beige, Wide) -->
+  <!-- 3D Isometric Base Box -->
+  <g>
+    <!-- Right Shaded Depth -->
+    <path d="M46 39L53 35V45L46 49V39Z" fill="#D8C39F"/>
+    <path d="M46 39L53 35V45L46 49V39Z" fill="#202536" fill-opacity="0.08"/>
+    <!-- Front Face -->
+    <path d="M15 41L32 49V51L15 43V41Z" fill="#202536" fill-opacity="0.1"/>
+    <path d="M15 41L46 41V49C46 49.5 45.5 50 45 50H16C15.5 50 15 49.5 15 49V41Z" fill="#E8D7B5"/>
+    <!-- Top Face -->
+    <polygon points="31,33 46,39 31,43 16,37" fill="#F5ECE0"/>
+    <!-- Packaging Tape Seam (Soft Orange) -->
+    <path d="M31 33L46 39L46 41L31 35L16 39L16 37L31 33Z" fill="#C98A48" fill-opacity="0.7"/>
+    <rect x="29.5" y="41" width="3" height="9" fill="#C98A48" fill-opacity="0.8"/>
+  </g>
+
+  <!-- MIDDLE BOX (Muted Blue, Offset) -->
+  <g>
+    <!-- Right Shaded Depth -->
+    <path d="M40 28L46 25V34L40 37V28Z" fill="#52667A"/>
+    <!-- Front Face -->
+    <path d="M19 30L40 30V38C40 38.5 39.5 39 39 39H20C19.5 39 19 38.5 19 38V30Z" fill="#6D8298"/>
+    <!-- Top Face -->
+    <polygon points="30,23 41,27 30,31 19,27" fill="#8FA5BB"/>
+    <!-- White Packing Band -->
+    <rect x="28.5" y="30" width="3" height="8" fill="#FFFFFF" fill-opacity="0.7"/>
+  </g>
+
+  <!-- TOP BOX (Sage Green with Soft Orange Ribbon Bow) -->
+  <g>
+    <!-- Right Shaded Depth -->
+    <path d="M36 18L41 15.5V23L36 25.5V18Z" fill="#73896E"/>
+    <!-- Front Face -->
+    <path d="M22 20L36 20V26C36 26.5 35.5 27 35 27H23C22.5 27 22 26.5 22 26V20Z" fill="#8FA58A"/>
+    <!-- Top Face -->
+    <polygon points="29,15 37,18 29,21 21,18" fill="#A6BEA1"/>
+
+    <!-- Ribbon Vertical Strip (Soft Orange) -->
+    <rect x="27.5" y="20" width="3" height="6.5" fill="#C98A48"/>
+
+    <!-- 3D Ribbon Bow on Top (Soft Orange) -->
+    <ellipse cx="26.5" cy="15" rx="2.5" ry="1.8" fill="#C98A48"/>
+    <ellipse cx="26.5" cy="14.8" rx="1.5" ry="1" fill="#DF9E58"/>
+    <ellipse cx="31.5" cy="15" rx="2.5" ry="1.8" fill="#C98A48"/>
+    <ellipse cx="31.5" cy="14.8" rx="1.5" ry="1" fill="#DF9E58"/>
+    <circle cx="29" cy="15.5" r="1.5" fill="#202536"/>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="22" ry="4.5" fill="#202536" fill-opacity="0.12"/>
+
+  <!-- EXECUTIVE BRIEFCASE (Left side & Center) in Warm Beige & Navy -->
+  <g transform="translate(-1, 0)">
+    <!-- Briefcase Top Handle (Dark Navy) -->
+    <path d="M22 23V19C22 17.5 23.5 16 25 16H31C32.5 16 34 17.5 34 19V23" stroke="#202536" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M23 23V19.5C23 18.5 24 17.5 25 17.5H31C32 17.5 33 18.5 33 19.5V23" stroke="#31384E" stroke-width="1" stroke-linecap="round"/>
+
+    <!-- Briefcase 3D Back Depth -->
+    <rect x="14" y="24" width="28" height="23" rx="5" fill="#202536"/>
+    <!-- Briefcase Main Front Face (Warm Beige) -->
+    <rect x="13" y="23" width="28" height="23" rx="5" fill="#E8D7B5"/>
+    <rect x="13" y="23" width="28" height="4" rx="2" fill="#F5ECE0"/>
+
+    <!-- Horizontal Center Seam (Dark Navy) -->
+    <line x1="13" y1="33" x2="41" y2="33" stroke="#202536" stroke-width="1.5"/>
+
+    <!-- Twin Golden Latches (Soft Orange) -->
+    <rect x="19" y="31" width="4.5" height="5" rx="1.2" fill="#C98A48"/>
+    <rect x="19.5" y="31" width="3.5" height="2" rx="0.5" fill="#DF9E58"/>
+    <rect x="20.5" y="34.5" width="1.5" height="1" rx="0.3" fill="#202536"/>
+
+    <rect x="30.5" y="31" width="4.5" height="5" rx="1.2" fill="#C98A48"/>
+    <rect x="31" y="31" width="3.5" height="2" rx="0.5" fill="#DF9E58"/>
+    <rect x="32" y="34.5" width="1.5" height="1" rx="0.3" fill="#202536"/>
+
+    <!-- Leather Corner Reinforcements -->
+    <path d="M13 41V43C13 44.5 14 46 16 46H18L13 41Z" fill="#D8C39F"/>
+    <path d="M41 41V43C41 44.5 40 46 38 46H36L41 41Z" fill="#D8C39F"/>
+  </g>
+
+  <!-- 3D ASCENDING BAR CHART COLUMNS (Front Right) -->
+  <!-- Column 1 (Low: Sage Green) -->
+  <g transform="translate(38, 36)">
+    <!-- Column Shadow -->
+    <rect x="1" y="1" width="4" height="11" rx="1" fill="#202536" fill-opacity="0.15"/>
+    <!-- Column Body -->
+    <rect x="0" y="0" width="4" height="11" rx="1" fill="#8FA58A"/>
+    <!-- Top Cap (3D Facet) -->
+    <rect x="0" y="0" width="4" height="2" rx="0.8" fill="#A6BEA1"/>
+  </g>
+
+  <!-- Column 2 (Mid: Soft Orange) -->
+  <g transform="translate(44, 30)">
+    <rect x="1" y="1" width="4" height="17" rx="1" fill="#202536" fill-opacity="0.15"/>
+    <rect x="0" y="0" width="4" height="17" rx="1" fill="#C98A48"/>
+    <rect x="0" y="0" width="4" height="2" rx="0.8" fill="#DF9E58"/>
+  </g>
+
+  <!-- Column 3 (High: Muted Blue) -->
+  <g transform="translate(50, 23)">
+    <rect x="1" y="1" width="4" height="24" rx="1" fill="#202536" fill-opacity="0.15"/>
+    <rect x="0" y="0" width="4" height="24" rx="1" fill="#6D8298"/>
+    <rect x="0" y="0" width="4" height="2" rx="0.8" fill="#8FA5BB"/>
+  </g>
+
+  <!-- Growth Trend Sparkle (Gold) -->
+  <polygon points="52,16 53,18.5 55.5,19.5 53,20.5 52,23 51,20.5 48.5,19.5 51,18.5" fill="#C98A48"/>
+</svg>

@@ -1,6 +1,6 @@
 {
-  "name": "Remix Needly mobile10",
-  "description": "Hyperlocal marketplace mobile app for renting products and hiring local services.",
+  "name": "Needly",
+  "description": "Hyperlocal marketplace for renting products and hiring local services.",
   "requestFramePermissions": [
     "geolocation"
   ],

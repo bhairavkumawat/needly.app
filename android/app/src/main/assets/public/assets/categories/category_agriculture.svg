@@ -1,0 +1,60 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="22" ry="4.5" fill="#202536" fill-opacity="0.12"/>
+  <ellipse cx="48" cy="52" rx="7" ry="2.5" fill="#202536" fill-opacity="0.15"/>
+
+  <!-- TRACTOR (3/4 Isometric Perspective) -->
+  <!-- Far Rear Wheel Silhouette -->
+  <ellipse cx="19" cy="38" rx="5" ry="7" fill="#161A26"/>
+
+  <!-- Tractor Cabin / Roll Bar (Dark Navy) -->
+  <path d="M18 22H27V33H18V22Z" fill="none" stroke="#202536" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="17" y="21" width="11" height="2.5" rx="1" fill="#C98A48"/>
+  <!-- Steering Wheel Hint -->
+  <line x1="26" y1="30" x2="28" y2="27" stroke="#202536" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Tractor Engine Hood (Sage Green) -->
+  <path d="M26 29H42C43.5 29 44.5 30 44.5 31.5V39H26V29Z" fill="#8FA58A"/>
+  <!-- Hood Top Lit Facet -->
+  <path d="M26 29H42C43.5 29 44.5 30 44.5 31V32.5H26V29Z" fill="#A6BEA1"/>
+  <!-- Front Grille (Dark Navy) -->
+  <path d="M43 31.5H45C45.5 31.5 46 32 46 32.5V38.5H43V31.5Z" fill="#202536"/>
+  <circle cx="44.5" cy="33.5" r="1" fill="#DF9E58"/>
+
+  <!-- Exhaust Smokestack (Light Gray) -->
+  <rect x="37" y="19" width="2.2" height="10" rx="1" fill="#D2D2CE"/>
+  <rect x="36.5" y="18" width="3.2" height="1.8" rx="0.8" fill="#202536"/>
+
+  <!-- Big Heavy-Duty Rear Wheel -->
+  <g>
+    <!-- Outer Tire (Dark Navy) -->
+    <circle cx="20" cy="42" r="9.5" fill="#202536"/>
+    <!-- Tire Treads -->
+    <path d="M12 42H14M26 42H28M20 34V36M20 48V50" stroke="#31384E" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- Rim (Warm Beige) -->
+    <circle cx="20" cy="42" r="6" fill="#E8D7B5"/>
+    <circle cx="20" cy="42" r="6" fill="#D8C39F" fill-opacity="0.5"/>
+    <circle cx="20" cy="42" r="2.5" fill="#202536"/>
+  </g>
+
+  <!-- Front Wheel (Smaller) -->
+  <g>
+    <circle cx="41" cy="45" r="5.5" fill="#202536"/>
+    <circle cx="41" cy="45" r="3.2" fill="#E8D7B5"/>
+    <circle cx="41" cy="45" r="1.5" fill="#202536"/>
+  </g>
+
+  <!-- GREEN PLANT SPROUT (Front Right) -->
+  <!-- Soil Mound (Warm Beige / Soft Orange) -->
+  <ellipse cx="50" cy="49" rx="4" ry="2" fill="#C98A48"/>
+  <ellipse cx="50" cy="48.5" rx="3" ry="1.2" fill="#E8D7B5"/>
+
+  <!-- Sprout Stem & Organic Leaves (Sage Green) -->
+  <path d="M50 48C50 44 49 40 48 37" stroke="#73896E" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left Leaf -->
+  <path d="M48 40C44 39 43 43 48 42C48 41 48 40.5 48 40Z" fill="#8FA58A"/>
+  <path d="M48 40C45 39.5 44 42 47 41.5Z" fill="#A6BEA1"/>
+  <!-- Right Leaf -->
+  <path d="M48 37C52 35 54 39 49 40C48.5 39 48.2 38 48 37Z" fill="#8FA58A"/>
+  <path d="M48 37C51 35.5 52.5 38 49 39Z" fill="#A6BEA1"/>
+</svg>
