@@ -1,0 +1,20 @@
+{
+	"appId": "com.needly.app",
+	"appName": "Needly",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https",
+		"cleartext": true
+	},
+	"android": {
+		"allowMixedContent": true,
+		"backgroundColor": "#ffffff"
+	},
+	"plugins": {
+		"StatusBar": {
+			"overlaysWebView": false,
+			"style": "DARK",
+			"backgroundColor": "#ffffff"
+		}
+	}
+}

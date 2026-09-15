@@ -1,0 +1,52 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="22" ry="4.5" fill="#202536" fill-opacity="0.12"/>
+  <ellipse cx="44" cy="53" rx="10" ry="3.5" fill="#202536" fill-opacity="0.15"/>
+
+  <!-- FOLDED T-SHIRT / TOP (Left) in Muted Blue & Sage -->
+  <g transform="translate(0, 2)">
+    <!-- Base Depth (Dark Navy) -->
+    <rect x="13" y="27" width="23" height="20" rx="4" fill="#202536"/>
+    <!-- Folded Body -->
+    <rect x="12" y="26" width="23" height="20" rx="4" fill="#6D8298"/>
+    <!-- Lit Upper Surface -->
+    <path d="M12 30C12 27.7909 13.7909 26 16 26H31C33.2091 26 35 27.7909 35 30V34H12V30Z" fill="#8FA5BB"/>
+    
+    <!-- Folded Sleeve Lines -->
+    <path d="M12 29L19 33V42L12 39V29Z" fill="#52667A"/>
+    <path d="M35 29L28 33V42L35 39V29Z" fill="#52667A"/>
+
+    <!-- Crew Neckline Collar (Dark Navy & Warm Beige) -->
+    <path d="M20 26C20 28.5 22 30 23.5 30C25 30 27 28.5 27 26H20Z" fill="#202536"/>
+    <path d="M21 26C21 27.5 22.5 28.5 23.5 28.5C24.5 28.5 26 27.5 26 26H21Z" fill="#E8D7B5"/>
+
+    <!-- Hem detail -->
+    <line x1="16" y1="43" x2="31" y2="43" stroke="#52667A" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- DESIGNER HANDBAG (Front Right) in Warm Beige & Soft Orange -->
+  <g>
+    <!-- Handbag Handle (Arched Dark Navy) -->
+    <path d="M38 31C38 23 48 23 48 31" stroke="#202536" stroke-width="3" stroke-linecap="round"/>
+    <path d="M38.5 31C38.5 24 47.5 24 47.5 31" stroke="#31384E" stroke-width="1.2" stroke-linecap="round"/>
+
+    <!-- Bag Main 3D Body (Trapeze rounded silhouette) -->
+    <!-- Depth shadow behind -->
+    <rect x="34" y="32" width="18" height="17" rx="5" fill="#202536"/>
+    <!-- Bag Front in Warm Beige -->
+    <rect x="33" y="31" width="18" height="17" rx="5" fill="#E8D7B5"/>
+    <rect x="33" y="31" width="18" height="4" rx="2" fill="#F5ECE0"/>
+
+    <!-- Flap Cover (Soft Orange) -->
+    <path d="M33 34C33 32.5 34 31 35.5 31H48.5C50 31 51 32.5 51 34V39C51 40 50 41 49 41H35C34 41 33 40 33 39V34Z" fill="#C98A48"/>
+    <path d="M33 34C33 32.5 34 31 35.5 31H48.5C50 31 51 32.5 51 34V35.5H33V34Z" fill="#DF9E58"/>
+
+    <!-- Gold Metallic Turn-Lock Clasp -->
+    <rect x="40.5" y="39" width="3" height="3" rx="1" fill="#F5ECE0" stroke="#202536" stroke-width="0.8"/>
+    <circle cx="42" cy="40.5" r="0.6" fill="#202536"/>
+
+    <!-- Bottom Corner Accents -->
+    <circle cx="36" cy="45" r="1" fill="#DF9E58"/>
+    <circle cx="48" cy="45" r="1" fill="#DF9E58"/>
+  </g>
+</svg>

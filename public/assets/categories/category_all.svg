@@ -1,0 +1,40 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground contact shadow -->
+  <ellipse cx="32" cy="54" rx="21" ry="4.5" fill="#202536" fill-opacity="0.12"/>
+
+  <!-- Main Isometric 4-Point Gem / Star (Center) -->
+  <g>
+    <!-- Shadow behind -->
+    <path d="M32 12L37 25L50 30L37 35L32 48L27 35L14 30L27 25L32 12Z" fill="#202536" fill-opacity="0.15"/>
+    <!-- Facet 1: Top-Left (Lit Soft Orange) -->
+    <polygon points="32,11 32,29 26,24" fill="#DF9E58"/>
+    <polygon points="13,29 32,29 26,24" fill="#C98A48"/>
+    <!-- Facet 2: Top-Right (Muted Blue Highlight) -->
+    <polygon points="32,11 32,29 38,24" fill="#8FA5BB"/>
+    <polygon points="51,29 32,29 38,24" fill="#6D8298"/>
+    <!-- Facet 3: Bottom-Left (Sage Green) -->
+    <polygon points="13,29 32,29 26,34" fill="#8FA58A"/>
+    <polygon points="32,47 32,29 26,34" fill="#73896E"/>
+    <!-- Facet 4: Bottom-Right (Dark Navy & Warm Beige) -->
+    <polygon points="51,29 32,29 38,34" fill="#202536"/>
+    <polygon points="32,47 32,29 38,34" fill="#31384E"/>
+
+    <!-- Center Gem Facet (Warm Beige Diamond) -->
+    <polygon points="32,22 39,29 32,36 25,29" fill="#E8D7B5"/>
+    <polygon points="32,22 32,36 25,29" fill="#F5ECE0"/>
+    <circle cx="32" cy="29" r="1.5" fill="#202536"/>
+  </g>
+
+  <!-- Small Floating Accent Gem (Top-Right) -->
+  <g transform="translate(42, 14)">
+    <polygon points="6,0 12,6 6,12 0,6" fill="#C98A48"/>
+    <polygon points="6,0 6,12 0,6" fill="#DF9E58"/>
+    <circle cx="6" cy="6" r="1" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Small Floating Accent Gem (Bottom-Left) -->
+  <g transform="translate(12, 40)">
+    <polygon points="5,0 10,5 5,10 0,5" fill="#8FA58A"/>
+    <polygon points="5,0 5,10 0,5" fill="#A6BEA1"/>
+  </g>
+</svg>
